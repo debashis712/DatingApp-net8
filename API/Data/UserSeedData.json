@@ -12,7 +12,7 @@
     "Country": "Andorra",
     "Photos": [
       {
-        "Url": "https://randomuser.me/aps/portraits/women/45-jpg",
+        "Url": "https://randomuser.me/api/portraits/women/45.jpg",
         "IsMain": true
       }
     ]
@@ -30,7 +30,7 @@
     "Country": "Gibraltar",
     "Photos": [
       {
-        "Url": "https://randomuser.me/aps/portraits/women/84-jpg",
+        "Url": "https://randomuser.me/api/portraits/women/84.jpg",
         "IsMain": true
       }
     ]
@@ -48,7 +48,7 @@
     "Country": "Korea (South)",
     "Photos": [
       {
-        "Url": "https://randomuser.me/aps/portraits/women/46-jpg",
+        "Url": "https://randomuser.me/api/portraits/women/46.jpg",
         "IsMain": true
       }
     ]
@@ -66,7 +66,7 @@
     "Country": "Saudi Arabia",
     "Photos": [
       {
-        "Url": "https://randomuser.me/aps/portraits/women/76-jpg",
+        "Url": "https://randomuser.me/api/portraits/women/76.jpg",
         "IsMain": true
       }
     ]
@@ -84,7 +84,7 @@
     "Country": "Dominica",
     "Photos": [
       {
-        "Url": "https://randomuser.me/aps/portraits/women/49-jpg",
+        "Url": "https://randomuser.me/api/portraits/women/49.jpg",
         "IsMain": true
       }
     ]
@@ -102,7 +102,7 @@
     "Country": "Kazakhstan",
     "Photos": [
       {
-        "Url": "https://randomuser.me/aps/portraits/men/23-jpg",
+        "Url": "https://randomuser.me/api/portraits/men/23.jpg",
         "IsMain": true
       }
     ]
@@ -120,7 +120,7 @@
     "Country": "Myanmar",
     "Photos": [
       {
-        "Url": "https://randomuser.me/aps/portraits/men/84-jpg",
+        "Url": "https://randomuser.me/api/portraits/men/84.jpg",
         "IsMain": true
       }
     ]
@@ -138,7 +138,7 @@
     "Country": "Nauru",
     "Photos": [
       {
-        "Url": "https://randomuser.me/aps/portraits/men/74-jpg",
+        "Url": "https://randomuser.me/api/portraits/men/74.jpg",
         "IsMain": true
       }
     ]
@@ -156,7 +156,7 @@
     "Country": "Bhutan",
     "Photos": [
       {
-        "Url": "https://randomuser.me/aps/portraits/men/15-jpg",
+        "Url": "https://randomuser.me/api/portraits/men/15.jpg",
         "IsMain": true
       }
     ]
@@ -174,7 +174,7 @@
     "Country": "Jordan",
     "Photos": [
       {
-        "Url": "https://randomuser.me/aps/portraits/men/59-jpg",
+        "Url": "https://randomuser.me/api/portraits/men/59.jpg",
         "IsMain": true
       }
     ]
