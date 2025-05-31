@@ -2,7 +2,7 @@
   {
     "UserName": "Darcy",
     "Gender": "female",
-    "DateorBirth": "1991-12-06",
+    "DateOfBirth": "1991-12-06",
     "KnownAs": "Darcy",
     "Created": "2020-01-28",
     "LastActive": "2021-06-21",
@@ -20,7 +20,7 @@
   {
     "UserName": "Marion",
     "Gender": "female",
-    "DateorBirth": "1981-04-18",
+    "DateOfBirth": "1981-04-18",
     "KnownAs": "Marion",
     "Created": "2020-06-24",
     "LastActive": "2021-05-16",
@@ -38,7 +38,7 @@
   {
     "UserName": "Luisa",
     "Gender": "female",
-    "DateorBirth": "1978-01-27",
+    "DateOfBirth": "1978-01-27",
     "KnownAs": "Luisa",
     "Created": "2020-04-23",
     "LastActive": "2021-05-06",
@@ -56,7 +56,7 @@
   {
     "UserName": "Juana",
     "Gender": "female",
-    "DateorBirth": "1988-05-04",
+    "DateOfBirth": "1988-05-04",
     "KnownAs": "Juana",
     "Created": "2020-03-22",
     "LastActive": "2021-06-13",
@@ -74,7 +74,7 @@
   {
     "UserName": "Michael",
     "Gender": "female",
-    "DateorBirth": "1976-09-27",
+    "DateOfBirth": "1976-09-27",
     "KnownAs": "Michael",
     "Created": "2020-03-21",
     "LastActive": "2021-06-10",
@@ -92,7 +92,7 @@
   {
     "UserName": "Ferrell",
     "Gender": "male",
-    "DateorBirth": "1991-03-03",
+    "DateOfBirth": "1991-03-03",
     "KnownAs": "Ferrell",
     "Created": "2020-02-20",
     "LastActive": "2021-05-29",
@@ -110,7 +110,7 @@
   {
     "UserName": "Owen",
     "Gender": "male",
-    "DateorBirth": "1994-02-14",
+    "DateOfBirth": "1994-02-14",
     "KnownAs": "Owen",
     "Created": "2020-01-09",
     "LastActive": "2021-05-05",
@@ -128,7 +128,7 @@
   {
     "UserName": "Barber",
     "Gender": "male",
-    "DateorBirth": "1975-01-31",
+    "DateOfBirth": "1975-01-31",
     "KnownAs": "Barber",
     "Created": "2020-02-10",
     "LastActive": "2021-06-19",
@@ -146,7 +146,7 @@
   {
     "UserName": "Oneil",
     "Gender": "male",
-    "DateorBirth": "1977-06-20",
+    "DateOfBirth": "1977-06-20",
     "KnownAs": "Oneil",
     "Created": "2020-01-15",
     "LastActive": "2021-05-04",
@@ -164,7 +164,7 @@
   {
     "UserName": "Wong",
     "Gender": "male",
-    "DateorBirth": "1987-08-26",
+    "DateOfBirth": "1987-08-26",
     "KnownAs": "Wong",
     "Created": "2020-02-05",
     "LastActive": "2021-05-21",
